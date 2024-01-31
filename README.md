@@ -2,7 +2,7 @@
 
 <br>
 
-  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=IJuanTM&hide_title=true&show_icons=true&count_private=true&include_all_commits=true&theme=dark&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
-  [![My top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IJuanTM&hide=hack,tsql&layout=compact&card_width=288&custom_title=Most%20used%20languages&langs_count=6&hide_title&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=IJuanTM&show_icons=true&count_private=true&include_all_commits=true&theme=darcula&rank_icon=percentile&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
+  [![My top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IJuanTM&hide=hack,tsql&layout=pie&langs_count=6&theme=darcula&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
