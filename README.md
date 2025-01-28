@@ -8,9 +8,9 @@ I'm a Full-Stack Web Developer from The Netherlands, with a bachelors degree in 
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IJuanTM&langs_count=5&hide=hack,tsql&hide_title=true&card_width=352&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IJuanTM&langs_count=5&hide=hack,tsql&hide_title=true&card_width=352&theme=dark">
 
-![IJuanTM's GitHub stats](https://github-readme-stats.vercel.app/api?username=IJuanTM&show_icons=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&hide_title=true&card_width=352&theme=dark)
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=IJuanTM&langs_count=5&hide=hack,tsql&hide_title=true&card_width=352&theme=dark](https://github-readme-stats.vercel.app/api?username=IJuanTM&show_icons=true&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&hide_title=true&card_width=352&theme=dark)">
 
 </div>
 
