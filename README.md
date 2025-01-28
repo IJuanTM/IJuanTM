@@ -1,6 +1,6 @@
 <br>
 
-<h1>Hi there, I'm Iwan! 👋</h1>
+<h1 style="padding-bottom: 0; border-bottom: unset;">Hi there, I'm Iwan! 👋</h1>
 
 <br>
 
