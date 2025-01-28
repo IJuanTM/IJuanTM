@@ -12,6 +12,7 @@ I'm a Full-Stack Web Developer from The Netherlands, with a bachelors degree in 
 
 ## Projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IJuanTM&repo=simpl)](https://github.com/IJuanTM/simpl)
 - **Simpl:** An easy-to-use PHP, HTML, Sass and TypeScript framework!
   * Simpl started out as a template project for my own websites. I have been adding functionalities, and improving existing functionality over the years. It is a lightweight PHP framework that comes with some helpful TypeScript functions and basic Sass styling and helpers.
 
