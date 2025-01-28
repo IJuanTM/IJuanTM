@@ -21,4 +21,4 @@ I'm a Full-Stack Web Developer from The Netherlands, with a bachelors degree in 
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IJuanTM&layout=compact&langs_count=5&hide=hack,tsql&hide_title=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IJuanTM&langs_count=5&hide=hack,tsql&hide_title=true&theme=radical)
