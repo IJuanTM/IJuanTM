@@ -14,3 +14,11 @@ Full-Stack Web Developer from The Netherlands with a bachelor's degree in Softwa
 - **[Simpl](https://github.com/IJuanTM/simpl)** – A lightweight PHP framework that started as a personal template project and has evolved over the years. It includes helpful TypeScript functions, basic Sass styling, and optimized architecture for building web applications efficiently.
 
   <img src="https://github-readme-stats-six-zeta-28.vercel.app/api/pin/?username=IJuanTM&repo=simpl&theme=github_dark" alt="Simpl Framework" />
+
+- **[TerminalWatchface](https://github.com/IJuanTM/TerminalWatchface)** – A retro terminal-style watchface for Garmin AMOLED devices.
+
+  <img src="https://github-readme-stats-six-zeta-28.vercel.app/api/pin/?username=IJuanTM&repo=TerminalWatchface&theme=github_dark" alt="TerminalWatchface Garmin Watchface" />
+
+- **[FlightradarApp](https://github.com/IJuanTM/FlightradarApp)** – A live ADS-B flight radar for Garmin watches.
+
+  <img src="https://github-readme-stats-six-zeta-28.vercel.app/api/pin/?username=IJuanTM&repo=FlightradarApp&theme=github_dark" alt="FlightradarApp Garmin App" />
