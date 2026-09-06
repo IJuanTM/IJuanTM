@@ -6,8 +6,8 @@ Full-Stack Web Developer from The Netherlands with a bachelor's degree in Softwa
 
 <div>
 
-  [<img width="500" height="400" align="center" src="https://github-stats-extended.vercel.app/api?username=IJuanTM&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=github_dark" alt="My GitHub Stats" />](https://github.com/IJuanTM?tab=repositories)
-  [<img width="400" height="400" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=IJuanTM&layout=donut&langs_count=8&theme=github_dark" alt="Top Languages" />](https://github.com/IJuanTM?tab=repositories)
+  [<img width="45%" height="400" align="top" src="https://github-stats-extended.vercel.app/api?username=IJuanTM&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=github_dark" alt="My GitHub Stats" />](https://github.com/IJuanTM?tab=repositories)
+  [<img width="35%" height="400" align="top" src="https://github-stats-extended.vercel.app/api/top-langs?username=IJuanTM&layout=donut&langs_count=8&theme=github_dark" alt="Top Languages" />](https://github.com/IJuanTM?tab=repositories)
 
 </div>
 
